@@ -1,7 +1,7 @@
 # Jupyter Notebook Template
 
 This repl solves a number of problems in running Jupyter notebooks "as is"
-from repl.it.
+from replit.com.
 
 - Serving to the (default) SSL port.
 - Allowing access from a remote client (normally just serves to the local machine).
@@ -9,6 +9,9 @@ from repl.it.
 - Putting all notebooks in their own directory.
 
 # Getting started
+
+Start by forking [this template](https://replit.com/@mckoss/jupyter-template)
+on replit.com.
 
 When you first run this repl, you should be prompted for a password
 in the Console window.  This will only happen the first time you run it.
